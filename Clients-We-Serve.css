@@ -1,0 +1,317 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin: 25px auto 35px 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 590px;
+  pointer-events: auto;
+  background-image: url("images/WinstonSalem.jpg");
+  background-position: 36.28% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 590px;
+  pointer-events: auto;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 177px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 36px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 481px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 486px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 486px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 77px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 52px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 372px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 396px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 52px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 558px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 324px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 37px;
+    margin-right: 10px;
+    margin-left: -10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 45px;
+    margin-right: 10px;
+    margin-left: -10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 446px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 351px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 296px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 25px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 35px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 682px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 28px 994px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: -39px 413px 0 570px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  pointer-events: auto;
+  margin-top: 22px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: url("images/ResidentialHouse.jpg");
+  background-position: 50% 50%;
+  min-height: 548px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 548px;
+  background-image: url("images/CommercialBuilding.jpg");
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 644px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 47px;
+    margin-right: 794px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: 304px;
+    margin-left: 470px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 452px;
+    pointer-events: auto;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 452px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 530px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 39px;
+    margin-right: 574px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 191px;
+    margin-left: 360px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 21px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 346px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 346px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1222px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 394px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 451px;
+    margin-right: 196px;
+    margin-left: 270px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 519px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 519px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 838px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 194px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 67px;
+    margin-right: 123px;
+    margin-left: 170px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 327px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 327px;
+  }
+}
